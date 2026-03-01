@@ -49,3 +49,4 @@ Electronics Protection Computers and servers use temperature sensors to prevent 
 Fans or cooling systems are activated when temperatures exceed safe limits.
 
 OUTPUT:
+<img width="1297" height="724" alt="Image" src="https://github.com/user-attachments/assets/748c3b14-756a-4d58-a85d-78d2a819f787" />
